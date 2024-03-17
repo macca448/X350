@@ -1,0 +1,16 @@
+Setup's 
+https://www.rcgroups.com/forums/showthread.php?2085032-Walkera-QR-X350-PRO-(New-v1-7)/page89
+
+Video Guide
+https://www.deviationtx.com/forum/6-general-discussions/3355-walkera-qr-x350-pro-on-apm-mission-planner-howto
+
+For AVR Dude read Flash
+avrdude -c <programmer name> -p m32 -U flash:r:read_firmware.hex:i
+
+from: https://stackoverflow.com/questions/55618350/how-to-reverse-engineer-extract-code-atmega32
+
+DroneBridge for Wireless Mission Planner App connection
+https://github.com/DroneBridge/DroneBridge
+
+
+
